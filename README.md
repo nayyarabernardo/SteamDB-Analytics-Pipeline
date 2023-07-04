@@ -41,11 +41,13 @@ If you decide to include this, you should also talk a bit about why you chose th
 3. Criação de scripts que vai fazer extraçãom, tratamento e carregamento dos dados
 4. Criação do conjunto de dados para o BigQuery
 5. Execução do script main.py
-6. Criação e da planilha no Google sheeats e conecção da mesma com o BigQuery
+6. Query na BigQuery
+![Query](data/img/query.png)
+7. Criação e da planilha no Google sheeats e conecção da mesma com o BigQuery
 ![Google Sheets](data/img/google-sheets.png)
-7. Atualização programada do Google Sheets
+8. Atualização programada do Google Sheets
 ![Google Sheets Atualização](data/img/sheets-atualizacao.png)
-7. Criação de script de automação do processo
+9. Criação de script de automação do processo
 
 
 ## Lessons Learned
@@ -54,5 +56,10 @@ Os dados dessa ETL estão no arquivo [Google Sheets](https://docs.google.com/spr
 
 ## Contact
 
-Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida em: [ LinkedIn](linkedin.com/in/nayyarabernardo/) ou [Email](https://docs.google.com/spreadsheets/d/107E1cQSG64BBLDP2_S5-IDIMAwNifvYccLq1XUwSwPM/edit?usp=sharing) 
+Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida em: 
 
+<div> 
+  <a href = "mailto:nayyarabernardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nayyarabernardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>

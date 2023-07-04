@@ -1,8 +1,9 @@
 import requests
 import pandas as pd
-from bs4 import BeautifulSoup, element
+from bs4 import BeautifulSoup
 import datetime
 from google.oauth2 import service_account
+
 
 # Autenticação no BigQuery
 key_file = r"C:\Users\nayya\Downloads\Estudo\projetos\desafio-beAnalytic-engdadosjr\credentials\projeto-key.json"
@@ -35,19 +36,20 @@ headers = {
 data_request = requests.get("https://steamdb.info/sales/", headers=headers)
 
 
-def extract_table_rows(html_data: str) -> element.ResultSet:
+def extract_table_rows(html_data):
     soup = BeautifulSoup(html_data, "html.parser")
-    items = soup.find_all("tr", {"class": "app"})
+    items = soup.find_all("tr", class_="app")
     return items
 
 
-def extract_data_from_rows(items: element.ResultSet) -> list[dict]:
+def extract_data_from_rows(items):
     items_data = []
 
     for item in items:
-        tds = item.findAll("td")
+        tds = item.find_all("td")
 
         name = tds[2].text.strip("\n").split("\n\n")[0]
+        all_time_low = None
         try:
             all_time_low = float(
                 tds[2]
@@ -56,8 +58,8 @@ def extract_data_from_rows(items: element.ResultSet) -> list[dict]:
                 .split("$ ")[1]
                 .replace(",", ".")
             )
-        except:
-            all_time_low = None
+        except IndexError:
+            pass
 
         other_fields = tds[3:]
         other_fields_values = [field["data-sort"] for field in other_fields]
@@ -66,27 +68,22 @@ def extract_data_from_rows(items: element.ResultSet) -> list[dict]:
             price_in_brl,
             rating_in_percent,
             end_time_in_seconds,
-            start_time_in_second,
-            release_time_in_second,
-        ) = other_fields_values
-
-        discount_in_percent = int(discount_in_percent)
-        price_in_brl = float(price_in_brl) / 100
-        rating_in_percent = float(rating_in_percent)
-        end_time_in_seconds = int(end_time_in_seconds)
-        start_time_in_second = int(start_time_in_second)
-        release_time_in_second = int(release_time_in_second)
+            start_time_in_seconds,
+            release_time_in_seconds,
+        ) = map(float, other_fields_values)
 
         items_data.append(
             {
                 "name": name,
-                "discount_in_percent": discount_in_percent,
-                "price_in_brl": price_in_brl,
+                "discount_in_percent": int(discount_in_percent),
+                "price_in_brl": price_in_brl / 100,
                 "all_time_low": all_time_low,
                 "rating_in_percent": rating_in_percent,
-                "end_time_in_seconds": end_time_in_seconds,
-                "start_time_in_second": start_time_in_second,
-                "release_time_in_second": release_time_in_second,
+                "end_time": datetime.datetime.fromtimestamp(end_time_in_seconds),
+                "start_time": datetime.datetime.fromtimestamp(start_time_in_seconds),
+                "release_time": datetime.datetime.fromtimestamp(
+                    release_time_in_seconds
+                ),
             }
         )
 
@@ -97,30 +94,12 @@ items = extract_table_rows(data_request.text)
 items_data = extract_data_from_rows(items)
 df = pd.DataFrame(items_data)
 
-
-# Função para converter o timestamp em formato de data
-def convert_timestamp_to_date(timestamp):
-    return datetime.datetime.fromtimestamp(timestamp)
-
-
-# Converter colunas de timestamp para formato de data
-timestamp_columns = [
-    "end_time_in_seconds",
-    "start_time_in_second",
-    "release_time_in_second",
-]
-
-for column in timestamp_columns:
-    df[column] = df[column].apply(convert_timestamp_to_date)
-
-
 # Enviar para o BigQuery
+destination_table = "projeto-beanalytic.steamdb.sales"
 df.to_gbq(
-    credentials=credentials,
-    destination_table="projeto-beanalytic.steamdb.sales",
-    if_exists="replace",
+    credentials=credentials, destination_table=destination_table, if_exists="replace"
 )
 
-df.to_csv(
-    r"C:\Users\nayya\Downloads\Estudo\projetos\desafio-beAnalytic-engdadosjr\data\sales.csv"
-)
+# Salvar como CSV
+csv_file_path = r"C:\Users\nayya\Downloads\Estudo\projetos\desafio-beAnalytic-engdadosjr\data\sales.csv"
+df.to_csv(csv_file_path, index=False)
