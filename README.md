@@ -23,7 +23,6 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 
 ![Fluxograma](data/img/fluxograma.jpg)
 
-If you decide to include this, you should also talk a bit about why you chose the architecture and tools you did for this project.
 
 ## Pre-requisitos
 
@@ -38,25 +37,27 @@ If you decide to include this, you should also talk a bit about why you chose th
 
 1. Criação de projeto do Google Cloud Platform (GCP) 
 2. Configuração do ambiente, instalando as bibliotecas no python
-3. Criação de scripts que vai fazer extraçãom, tratamento e carregamento dos dados
+3. Criação de scripts que irão fazer extração, tratamento e carregamento dos dados
 4. Criação do conjunto de dados para o BigQuery
 5. Execução do script main.py
 6. Query na BigQuery
 ![Query](data/img/query.png)
-7. Criação e da planilha no Google sheeats e conecção da mesma com o BigQuery
+7. Criação e conexão da planilha no Google sheets com o BigQuery
 ![Google Sheets](data/img/google-sheets.png)
 8. Atualização programada do Google Sheets
+<p>
 ![Google Sheets Atualização](data/img/sheets-atualizacao.png)
+</p>
 9. Criação de script de automação do processo
 
 
-## Lessons Learned
+## Arquivo solicitado
 
 Os dados dessa ETL estão no arquivo [Google Sheets](https://docs.google.com/spreadsheets/d/107E1cQSG64BBLDP2_S5-IDIMAwNifvYccLq1XUwSwPM/edit?usp=sharing)
 
-## Contact
+## Contato
 
-Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida em: 
+Se tiver alguma duvida, sinta-se à vontade para entrar em contato comigo em: 
 
 <div> 
   <a href = "mailto:nayyarabernardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
