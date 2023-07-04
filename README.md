@@ -21,7 +21,7 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 
 ### Workflow
 
-![Example architecture image](fluxograma.jpg)
+![Fluxograma](data/img/fluxograma.jpg)
 
 If you decide to include this, you should also talk a bit about why you chose the architecture and tools you did for this project.
 
