@@ -45,9 +45,9 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 7. Criação e conexão da planilha no Google sheets com o BigQuery
 ![Google Sheets](data/img/google-sheets.png)
 8. Atualização programada do Google Sheets
-<p>
+
 ![Google Sheets Atualização](data/img/sheets-atualizacao.png)
-</p>
+
 9. Criação de script de automação do processo
 
 
