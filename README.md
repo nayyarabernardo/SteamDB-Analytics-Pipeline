@@ -32,7 +32,7 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
   - google-cloud-bigquery
   - bs4
 
-## Etapas do Desafio
+## Etapas 
 
 1. Criação de projeto do Google Cloud Platform (GCP) 
 2. Configuração do ambiente, instalando as bibliotecas no python
@@ -50,7 +50,7 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 9. Criação de script de automação do processo
 
 
-## Arquivo solicitado
+## Arquivo Google Sheets
 
 Os dados dessa ETL estão no arquivo [Google Sheets](https://docs.google.com/spreadsheets/d/107E1cQSG64BBLDP2_S5-IDIMAwNifvYccLq1XUwSwPM/edit?usp=sharing)
 
