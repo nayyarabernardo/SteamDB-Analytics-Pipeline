@@ -8,7 +8,7 @@ set hora_atual=%TIME:~0,5%
 
 REM Compare a hora atual com o horário desejado
 if "%hora_atual%" leq "%hora_desejada%" (
-    python C:\Users\nayya\Downloads\Estudo\projetos\desafio-beAnalytic-engdadosjr\scripts\main.py
+    python C:\Users\nayya\Downloads\Estudo\projetos\elt-webscraping-and-bigquery\scripts\main.py
     echo Executado com sucesso!
 ) else (
     echo Horário de execução não alcançado. O arquivo não será executado.
