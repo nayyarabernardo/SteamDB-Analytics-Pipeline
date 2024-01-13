@@ -1,9 +1,7 @@
-# ETL
+# Webscraping and bigquery
 
 
 ## Visão Geral
-
-Foi solicitado a resolução de um caso técinico que consiste em:
 
 * Realize a extração das informações que conseguir da base de dados listada no website: https://steamdb.info/sales/ 
 
