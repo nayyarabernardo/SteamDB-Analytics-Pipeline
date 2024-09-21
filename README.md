@@ -11,14 +11,14 @@
 
 ### Visualização dos Dados
 
-![Dashboard](data/img/dashboard-sales.png)
+![Dashboard](docs/img/dashboard-sales.png)
 
 Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lfV7_qzYQzc)
 
 
 ### Workflow
 
-![Fluxograma](data/img/fluxograma.jpg)
+![Fluxograma](docs/img/fluxograma.jpg)
 
 
 ## Pre-requisitos
@@ -38,12 +38,12 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 4. Criação do conjunto de dados para o BigQuery
 5. Execução do script main.py
 6. Query na BigQuery
-![Query](data/img/query.png)
+![Query](docs/img/query.png)
 7. Criação e conexão da planilha no Google sheets com o BigQuery
-![Google Sheets](data/img/google-sheets.png)
+![Google Sheets](docs/img/google-sheets.png)
 8. Atualização programada do Google Sheets
 
-![Google Sheets Atualização](data/img/sheets-atualizacao.png)
+![Google Sheets Atualização](docs/img/sheets-atualizacao.png)
 
 9. Criação de script de automação do processo
 
