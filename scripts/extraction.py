@@ -72,34 +72,33 @@ def extract_data_from_rows(items):
             release_time_in_seconds,
         ) = map(float, other_fields_values)
 
-        items_data.append(
-            {
-                "name": name,
-                "discount_in_percent": int(discount_in_percent),
-                "price_in_brl": price_in_brl / 100,
-                "all_time_low": all_time_low,
-                "rating_in_percent": rating_in_percent,
-                "end_time": datetime.datetime.fromtimestamp(end_time_in_seconds),
-                "start_time": datetime.datetime.fromtimestamp(start_time_in_seconds),
-                "release_time": datetime.datetime.fromtimestamp(
-                    release_time_in_seconds
-                ),
-            }
-        )
+        items_data.append({
+            "name": name,
+            "discount_in_percent": discount_in_percent,
+            "price_in_brl": price_in_brl,
+            "all_time_low": all_time_low,
+            "rating_in_percent": rating_in_percent,
+            "end_time_in_seconds": end_time_in_seconds,
+            "start_time_in_seconds": start_time_in_seconds,
+            "release_time_in_seconds": release_time_in_seconds,
+        })
 
     return items_data
 
+def generate_filename(dataset_name, stage, extension='csv'):
+    date = datetime.datetime.now().strftime('%Y%m%d')
+    return f"{dataset_name}_{stage}_{date}.{extension}"
 
 items = extract_table_rows(data_request.text)
 items_data = extract_data_from_rows(items)
 df = pd.DataFrame(items_data)
 
-# Enviar para o BigQuery
-destination_table = "projeto-beanalytic.steamdb.sales"
-df.to_gbq(
-    credentials=credentials, destination_table=destination_table, if_exists="replace"
-)
+raw_filename = generate_filename('steamdb_sales', 'raw')
+
+csv_file_path = f"/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/{raw_filename}"
 
 # Salvar como CSV
-csv_file_path = r"C:\Users\nayya\Downloads\Estudo\projetos\desafio-beAnalytic-engdadosjr\data\sales.csv"
 df.to_csv(csv_file_path, index=False)
+
+
+

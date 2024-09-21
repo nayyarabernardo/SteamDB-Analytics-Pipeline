@@ -1,4 +1,0 @@
-gcsfs
-pandas-gbq
-gspread
-beautifulsoup4
