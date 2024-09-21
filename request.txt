@@ -1,4 +1,0 @@
-!pip install gcsfs
-pip install --upgrade pandas_gbq
-pip install gspread
-pip install bs4
