@@ -18,7 +18,7 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 
 ### Workflow
 
-![Fluxograma](docs/img/fluxograma.jpg)
+![Fluxograma](docs/img/fluxograma.png)
 
 
 ## Pre-requisitos
