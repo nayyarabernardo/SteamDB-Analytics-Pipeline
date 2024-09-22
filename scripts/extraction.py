@@ -85,15 +85,29 @@ def extract_data_from_rows(items):
 
     return items_data
 
-def generate_filename(dataset_name, stage, extension='csv'):
+
+def generate_filename(stage: str, dataset_name: str, extension: str = 'csv') -> str:
+    """
+    Gera um nome de arquivo com base no nome do dataset, estágio e data atual.
+    
+    Args:
+        dataset_name (str): Nome do dataset.
+        stage (str): Estágio do processamento (ex: 'raw', 'processed').
+        extension (str, optional): Extensão do arquivo. Padrão é 'csv'.
+    
+    Returns:
+        str: Nome do arquivo gerado.
+    """
+
     date = datetime.datetime.now().strftime('%Y%m%d')
-    return f"{dataset_name}_{stage}_{date}.{extension}"
+    return f"{stage}_{dataset_name}_{date}.{extension}"
+
 
 items = extract_table_rows(data_request.text)
 items_data = extract_data_from_rows(items)
 df = pd.DataFrame(items_data)
 
-raw_filename = generate_filename('steamdb_sales', 'raw')
+raw_filename = generate_filename('raw', 'steamdb_sales')
 
 csv_file_path = f"/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/{raw_filename}"
 
