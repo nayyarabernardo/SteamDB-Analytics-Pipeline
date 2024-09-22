@@ -41,6 +41,7 @@ def generate_filename(stage: str, dataset_name: str, extension: str = 'csv') -> 
     date = datetime.datetime.now().strftime('%Y%m%d')
     return f"{stage}_{dataset_name}_{date}.{extension}"
 
+
 """
 def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     
@@ -86,19 +87,33 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def append_to_trusted(new_data: pd.DataFrame, trusted_file: str):
+    """
+    Adiciona novos dados ao arquivo trusted existente ou cria um novo se não existir.
+    
+    Args:
+        new_data (pd.DataFrame): Novos dados a serem adicionados.
+        trusted_file (str): Caminho do arquivo trusted.
+    """
+    if os.path.exists(trusted_file):
+        existing_data = pd.read_csv(trusted_file)
+        combined_data = pd.concat([existing_data, new_data], ignore_index=True)
+    else:
+        combined_data = new_data
+    
+    combined_data.to_csv(trusted_file, index=False)
+
 def run_etl_pipeline(processed_directory: str, trusted_directory: str):
     """
-    Executa o pipeline ETL completo.
+    Executa o pipeline ETL completo, adicionando novos dados ao arquivo trusted existente.
 
     Args:
         processed_directory (str): Diretório onde estão os arquivos processed.
-        trusted_directory (str): Diretório onde serão salvos os arquivos processados.
+        trusted_directory (str): Diretório onde será salvo o arquivo trusted.
     """
-    
     try:
         latest_processed_file = get_latest_file(processed_directory, "processed_steamdb_sales_*.csv")
 
-        
         if latest_processed_file is None:
             logger.warning("Nenhum arquivo processed encontrado para processar.")
             return
@@ -108,16 +123,15 @@ def run_etl_pipeline(processed_directory: str, trusted_directory: str):
         df = pd.read_csv(latest_processed_file)
         df_transformed = transform_data(df)
 
-        
-        trusted_filename = generate_filename('trusted','steamdb_sales')
+        trusted_filename = "trusted_steamdb_sales.csv"
         trusted_filepath = os.path.join(trusted_directory, trusted_filename)
         
-        df_transformed.to_csv(trusted_filepath, index=False)
+        append_to_trusted(df_transformed, trusted_filepath)
+
         # Obtém o caminho relativo em relação ao diretório raiz
         relative_path = os.path.relpath(trusted_filepath, start='/home/nay/Documentos/Projetos')
 
-        logger.info(f"Transformação concluída. Dados salvos em '{relative_path}'")
-
+        logger.info(f"Transformação concluída. Dados adicionados em '{relative_path}'")
 
     except Exception as e:
         logger.error(f"Erro durante o processamento: {str(e)}")
