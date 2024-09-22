@@ -14,21 +14,23 @@
 Este projeto utiliza uma arquitetura do tipo Medallion para o gerenciamento de dados, organizada em camadas:
 
 * Raw: Dados extraídos diretamente da fonte, sem processamento.
+  Para a camada raw foi uma boa prática escolhida de manter os dados exatamente como foram recebidos, sem modificações. Isso serve como um "backup" dos dados originais e permite reprocessamento se necessário.
 * Processed: Dados que foram limpos e transformados, prontos para análise.
+  Esta camada contém dados que passaram por alguma transformação e limpeza. Os dados estão dispostos para que seja reprocessados se necessário e como backap das constantes mdificações de formato 
 * Trusted: Dados que passaram por validação e estão prontos para uso em decisões críticas.
+  Uma única tabela principal
 
 
 ### Visualização dos Dados
 
-![Dashboard](data/img/dashboard-sales.png)
+![Dashboard](docs/img/dashboard-sales.png)
 
-Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lfV7_qzYQzc)
+Para visualização completa do [Dashboard](https://lookerstudio.google.com/reporting/48ffd759-acd5-45ce-be7c-94536869e41f)
 
 
 ### Workflow
 
-![Fluxograma](data/img/fluxograma.jpg)
-
+![Fluxograma](docs/img/fluxograma.png)
 
 ## Pre-requisitos
 
@@ -47,19 +49,19 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 4. Criação do conjunto de dados para o BigQuery
 5. Execução do script main.py
 6. Query na BigQuery
-![Query](data/img/query.png)
+![Query](docs/img/query.png)
 7. Criação e conexão da planilha no Google sheets com o BigQuery
-![Google Sheets](data/img/google-sheets.png)
+![Google Sheets](docs/img/google-sheets.png)
 8. Atualização programada do Google Sheets
 
-![Google Sheets Atualização](data/img/sheets-atualizacao.png)
+![Google Sheets Atualização](docs/img/sheets-atualizacao.png)
 
 9. Criação de script de automação do processo
 
 
 ## Arquivo Google Sheets
 
-Os dados dessa ETL estão no arquivo [Google Sheets](https://docs.google.com/spreadsheets/d/107E1cQSG64BBLDP2_S5-IDIMAwNifvYccLq1XUwSwPM/edit?usp=sharing)
+Os dados dessa ETL estão no arquivo [Google Sheets](https://docs.google.com/spreadsheets/d/1siFjaCa92INpVe-cp2kr8vIAiNvs5thCLkI4VxBTjC8/edit?usp=sharing)
 
 ## Contato
 
