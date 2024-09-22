@@ -9,6 +9,15 @@
 
 * Em seguida exporte ou conecte esses dados em um Google Sheets e nos envie o link.
 
+### Arquitetura de Dados
+
+Este projeto utiliza uma arquitetura do tipo Medallion para o gerenciamento de dados, organizada em camadas:
+
+* Raw: Dados extraídos diretamente da fonte, sem processamento.
+* Processed: Dados que foram limpos e transformados, prontos para análise.
+* Trusted: Dados que passaram por validação e estão prontos para uso em decisões críticas.
+
+
 ### Visualização dos Dados
 
 ![Dashboard](docs/img/dashboard-sales.png)
@@ -23,7 +32,7 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/s/lf
 
 ## Pre-requisitos
 
-- Python (versão 3.11)
+- Python (versão 3.12)
 - Bibliotecas Python:
   - requests
   - pandas
