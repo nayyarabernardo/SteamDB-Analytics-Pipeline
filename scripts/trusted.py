@@ -14,7 +14,7 @@ def get_latest_file(directory: str, pattern: str) -> str:
     
     Args:
         directory (str): O diretório onde procurar os arquivos.
-        pattern (str): O padrão do nome do arquivo (ex: 'steamdb_sales_raw_*.csv').
+        pattern (str): O padrão do nome do arquivo (ex: 'steamdb_sales_processed_*.csv').
     
     Returns:
         str: O caminho completo do arquivo mais recente ou None se nenhum arquivo for encontrado.
@@ -31,7 +31,7 @@ def generate_filename(stage: str, dataset_name: str, extension: str = 'csv') -> 
     
     Args:
         dataset_name (str): Nome do dataset.
-        stage (str): Estágio do processamento (ex: 'raw', 'processed').
+        stage (str): Estágio do processamento (ex: 'processed', 'trusted').
         extension (str, optional): Extensão do arquivo. Padrão é 'csv'.
     
     Returns:
@@ -86,35 +86,35 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def run_etl_pipeline(raw_directory: str, processed_directory: str):
+def run_etl_pipeline(processed_directory: str, trusted_directory: str):
     """
     Executa o pipeline ETL completo.
 
     Args:
-        raw_directory (str): Diretório onde estão os arquivos raw.
-        processed_directory (str): Diretório onde serão salvos os arquivos processados.
+        processed_directory (str): Diretório onde estão os arquivos processed.
+        trusted_directory (str): Diretório onde serão salvos os arquivos processados.
     """
     
     try:
-        latest_raw_file = get_latest_file(raw_directory, "raw_steamdb_sales_*.csv")
+        latest_processed_file = get_latest_file(processed_directory, "processed_steamdb_sales_*.csv")
 
         
-        if latest_raw_file is None:
-            logger.warning("Nenhum arquivo raw encontrado para processar.")
+        if latest_processed_file is None:
+            logger.warning("Nenhum arquivo processed encontrado para processar.")
             return
 
-        logger.info(f"Processando o arquivo: {latest_raw_file}")
+        logger.info(f"Processando o arquivo: {latest_processed_file}")
         
-        df = pd.read_csv(latest_raw_file)
+        df = pd.read_csv(latest_processed_file)
         df_transformed = transform_data(df)
 
         
-        processed_filename = generate_filename('processed','steamdb_sales')
-        processed_filepath = os.path.join(processed_directory, processed_filename)
+        trusted_filename = generate_filename('trusted','steamdb_sales')
+        trusted_filepath = os.path.join(trusted_directory, trusted_filename)
         
-        df_transformed.to_csv(processed_filepath, index=False)
+        df_transformed.to_csv(trusted_filepath, index=False)
         # Obtém o caminho relativo em relação ao diretório raiz
-        relative_path = os.path.relpath(processed_filepath, start='/home/nay/Documentos/Projetos')
+        relative_path = os.path.relpath(trusted_filepath, start='/home/nay/Documentos/Projetos')
 
         logger.info(f"Transformação concluída. Dados salvos em '{relative_path}'")
 
@@ -123,7 +123,7 @@ def run_etl_pipeline(raw_directory: str, processed_directory: str):
         logger.error(f"Erro durante o processamento: {str(e)}")
 
 if __name__ == "__main__":
-    RAW_DIRECTORY = "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/"
     PROCESSED_DIRECTORY = "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/processed/"
+    TRUSTED_DIRECTORY = "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/trusted/"
 
-    run_etl_pipeline(RAW_DIRECTORY, PROCESSED_DIRECTORY)
+    run_etl_pipeline(PROCESSED_DIRECTORY, TRUSTED_DIRECTORY)
