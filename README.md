@@ -32,6 +32,7 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/repo
 
 ![Fluxograma](docs/img/fluxograma.png)
 
+
 ## Pre-requisitos
 
 - Python (versão 3.12)
