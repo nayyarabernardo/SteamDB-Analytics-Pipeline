@@ -1,0 +1,12 @@
+File uploaded to gs://steamdb_sales/raw/raw_steamdb_sales_20240923.csv
+File uploaded to gs://steamdb_sales/processed/processed_steamdb_sales_20240923.csv
+File uploaded to gs://steamdb_sales/trusted/trusted_steamdb_sales.csv
+Table trusted_steamdb_sales does not exist, it will be created.
+Appended trusted/trusted_steamdb_sales.csv to data-analytics-433518.steamdb.trusted_steamdb_sales
+4312 novas linhas adicionadas.
+File uploaded to gs://steamdb_sales/raw/raw_steamdb_sales_20240923.csv
+File uploaded to gs://steamdb_sales/processed/processed_steamdb_sales_20240923.csv
+File uploaded to gs://steamdb_sales/trusted/trusted_steamdb_sales.csv
+Table trusted_steamdb_sales exists, appending data.
+Appended trusted/trusted_steamdb_sales.csv to data-analytics-433518.steamdb.trusted_steamdb_sales
+1 novas linhas adicionadas.

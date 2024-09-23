@@ -1,0 +1,4 @@
+2024-09-23 11:50:01,927 - INFO - Processando o arquivo: /home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/processed/processed_steamdb_sales_20240923.csv
+2024-09-23 11:50:01,950 - INFO - Transformação concluída. Dados adicionados em 'SteamDB-Analytics-Pipeline/data/trusted/trusted_steamdb_sales.csv'
+2024-09-23 12:50:02,124 - INFO - Processando o arquivo: /home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/processed/processed_steamdb_sales_20240923.csv
+2024-09-23 12:50:02,143 - INFO - Transformação concluída. Dados adicionados em 'SteamDB-Analytics-Pipeline/data/trusted/trusted_steamdb_sales.csv'
