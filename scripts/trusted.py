@@ -71,7 +71,8 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
 """
 def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Realiza transformações no DataFrame, incluindo a adição da coluna 'safra'.
+    Realiza transformações no DataFrame, incluindo a adição da coluna 'safra'
+    e a tradução dos nomes das colunas para português.
     
     Args:
         df (pd.DataFrame): O DataFrame original a ser transformado.
@@ -83,6 +84,24 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     # Adiciona a coluna 'safra'
     data_extracao = datetime.datetime.now()
     df['safra'] = data_extracao.strftime('%Y%m')
+
+    # Dicionário de tradução para os nomes das colunas
+    colunas_traduzidas = {
+        'name': 'nome',
+        'discount_in_percent': 'desconto_percentual',
+        'price_in_brl': 'preco_em_reais',
+        'all_time_low': 'menor_preco_historico',
+        'rating_in_percent': 'avaliacao_percentual',
+        'end_time': 'data_fim',
+        'start_time': 'data_inicio',
+        'release_time': 'data_lancamento'
+    }
+
+    # Renomeia as colunas
+    df = df.rename(columns=colunas_traduzidas)
+
+    # Certifique-se de que 'desconto_percentual' seja do tipo float
+    df['desconto_percentual'] = df['desconto_percentual'].astype(float)
 
     return df
 
