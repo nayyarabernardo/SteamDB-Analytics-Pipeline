@@ -14,7 +14,7 @@ def get_latest_file(directory: str, pattern: str) -> str:
     
     Args:
         directory (str): O diretório onde procurar os arquivos.
-        pattern (str): O padrão do nome do arquivo (ex: 'steamdb_sales_processed_*.csv').
+        pattern (str): O padrão do nome do arquivo (ex: 'steamdb_sales_raw_*.csv').
     
     Returns:
         str: O caminho completo do arquivo mais recente ou None se nenhum arquivo for encontrado.
@@ -31,7 +31,7 @@ def generate_filename(stage: str, dataset_name: str, extension: str = 'csv') -> 
     
     Args:
         dataset_name (str): Nome do dataset.
-        stage (str): Estágio do processamento (ex: 'processed', 'trusted').
+        stage (str): Estágio do processamento (ex: 'raw', 'trusted').
         extension (str, optional): Extensão do arquivo. Padrão é 'csv'.
     
     Returns:
@@ -42,33 +42,7 @@ def generate_filename(stage: str, dataset_name: str, extension: str = 'csv') -> 
     return f"{stage}_{dataset_name}_{date}.{extension}"
 
 
-"""
-def transform_data(df: pd.DataFrame) -> pd.DataFrame:
-    
-    #Aplica transformações ao DataFrame.
-    
-    #Args:
-    #    df (pd.DataFrame): DataFrame a ser transformado.
-    
-    #Returns:
-    #    pd.DataFrame: DataFrame transformado.
-    
 
-    df['discount_in_percent'] = df['discount_in_percent'].astype(int)
-    df['price_in_brl'] = df['price_in_brl'] / 100
-    
-    for col in ['end_time_in_seconds', 'start_time_in_seconds', 'release_time_in_seconds']:
-        df[col.replace('_in_seconds', '')] = pd.to_datetime(df[col], unit='s')
-        df = df.drop(columns=[col])
-    
-    df['all_time_low'] = pd.to_numeric(df['all_time_low'], errors='coerce')
-    
-    # Adiciona a coluna 'safra'
-    data_extracao = datetime.datetime.now()
-    df['safra'] = data_extracao.strftime('%Y%m')
-
-    return df
-"""
 def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     """
     Realiza transformações no DataFrame, incluindo a adição da coluna 'safra'
@@ -122,24 +96,24 @@ def append_to_trusted(new_data: pd.DataFrame, trusted_file: str):
     
     combined_data.to_csv(trusted_file, index=False)
 
-def run_etl_pipeline(processed_directory: str, trusted_directory: str):
+def run_etl_pipeline(raw_directory: str, trusted_directory: str):
     """
     Executa o pipeline ETL completo, adicionando novos dados ao arquivo trusted existente.
 
     Args:
-        processed_directory (str): Diretório onde estão os arquivos processed.
+        raw_directory (str): Diretório onde estão os arquivos raw.
         trusted_directory (str): Diretório onde será salvo o arquivo trusted.
     """
     try:
-        latest_processed_file = get_latest_file(processed_directory, "processed_steamdb_sales_*.csv")
+        latest_raw_file = get_latest_file(raw_directory, "raw_steamdb_sales_*.csv")
 
-        if latest_processed_file is None:
-            logger.warning("Nenhum arquivo processed encontrado para processar.")
+        if latest_raw_file is None:
+            logger.warning("Nenhum arquivo raw encontrado para processar.")
             return
 
-        logger.info(f"Processando o arquivo: {latest_processed_file}")
+        logger.info(f"Processando o arquivo: {latest_raw_file}")
         
-        df = pd.read_csv(latest_processed_file)
+        df = pd.read_csv(latest_raw_file)
         df_transformed = transform_data(df)
 
         trusted_filename = "trusted_steamdb_sales.csv"
@@ -156,7 +130,7 @@ def run_etl_pipeline(processed_directory: str, trusted_directory: str):
         logger.error(f"Erro durante o processamento: {str(e)}")
 
 if __name__ == "__main__":
-    PROCESSED_DIRECTORY = "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/processed/"
+    RAW_DIRECTORY = "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/"
     TRUSTED_DIRECTORY = "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/trusted/"
 
-    run_etl_pipeline(PROCESSED_DIRECTORY, TRUSTED_DIRECTORY)
+    run_etl_pipeline(RAW_DIRECTORY, TRUSTED_DIRECTORY)

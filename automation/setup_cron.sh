@@ -4,7 +4,6 @@
 PROJECT_DIR="/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline"
 
 # Define os caminhos para os scripts
-PROCESSING_SCRIPT="$PROJECT_DIR/scripts/processing.py"
 MODELING_SCRIPT="$PROJECT_DIR/scripts/trusted.py"
 LOAD_SCRIPT="$PROJECT_DIR/scripts/load.py"
 
@@ -21,7 +20,7 @@ fi
 PYTHON_PATH="$VENV_DIR/bin/python3"
 
 # Define a tarefa cron (execução diária às 17:00)
-CRON_JOB="50 12 * * * $PYTHON_PATH $PROCESSING_SCRIPT >> $PROJECT_DIR/logs/processing_log.txt 2>&1 && $PYTHON_PATH $MODELING_SCRIPT >> $PROJECT_DIR/logs/trusted_log.txt 2>&1 && $PYTHON_PATH $LOAD_SCRIPT >> $PROJECT_DIR/logs/load_log.txt 2>&1"
+CRON_JOB="50 12 * * * $PYTHON_PATH $MODELING_SCRIPT >> $PROJECT_DIR/logs/trusted_log.txt 2>&1 && $PYTHON_PATH $LOAD_SCRIPT >> $PROJECT_DIR/logs/load_log.txt 2>&1"
 
 # Adiciona a tarefa cron
 (crontab -l 2>/dev/null; echo "$CRON_JOB") | crontab -

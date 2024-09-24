@@ -1,7 +1,7 @@
-2024-09-23 11:50:01,611 - INFO - Processando o arquivo: /home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/raw_steamdb_sales_20240923.csv
-2024-09-23 11:50:01,631 - INFO - Transformação concluída. Dados salvos em 'SteamDB-Analytics-Pipeline/data/processed/processed_steamdb_sales_20240923.csv'
-2024-09-23 12:50:01,830 - INFO - Processando o arquivo: /home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/raw_steamdb_sales_20240923.csv
-2024-09-23 12:50:01,836 - INFO - Transformação concluída. Dados salvos em 'SteamDB-Analytics-Pipeline/data/processed/processed_steamdb_sales_20240923.csv'
+2024-09-24 11:50:01,752 - INFO - Processando o arquivo: /home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/raw_steamdb_sales_20240922.csv
+2024-09-24 11:50:01,760 - ERROR - Erro durante o processamento: Cannot save file into a non-existent directory: '/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/processed'
+2024-09-24 12:50:01,944 - INFO - Processando o arquivo: /home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/raw/raw_steamdb_sales_20240922.csv
+2024-09-24 12:50:01,950 - ERROR - Erro durante o processamento: Cannot save file into a non-existent directory: '/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/data/processed'
 Traceback (most recent call last):
   File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/processing.py", line 3, in <module>
     import pandas as pd
