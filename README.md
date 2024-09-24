@@ -44,25 +44,25 @@ Para visualização completa do [Dashboard](https://lookerstudio.google.com/repo
 
 ## Etapas 
 
-1. Criação de projeto do Google Cloud Platform (GCP) 
-2. Configuração do ambiente, instalando as bibliotecas no python
-3. Criação de scripts que irão fazer extração, tratamento e carregamento dos dados
-4. Criação do conjunto de dados para o BigQuery
-5. Execução do script main.py
-6. Query na BigQuery
-![Query](docs/img/query.png)
-7. Criação e conexão da planilha no Google sheets com o BigQuery
-![Google Sheets](docs/img/google-sheets.png)
-8. Atualização programada do Google Sheets
+1. Configuração do ambiente de desenvolvimento:
+* Criação de um ambiente virtual (venv)
+* Instalação das bibliotecas necessárias através do arquivo requirements.txt
+* Configuração das variáveis de ambiente no arquivo .env
+2. Extração de dados:
+* Acesso ao site https://steamdb.info/sales/
+* Utilização da biblioteca BeautifulSoup para fazer o webscraping dos dados
+* Limpeza e transformação dos dados extraídos
+3. Carregamento de dados:
+* Criação do projeto, dataset e tabela no Google BigQuery
+* Carregamento de dados brutos e tratados para o datalake
+* Carregamento dos dados tratados para o BigQuery
+* Exportação dos dados para uma planilha no [Google Sheets](https://docs.google.com/spreadsheets/d/1siFjaCa92INpVe-cp2kr8vIAiNvs5thCLkI4VxBTjC8/edit?usp=sharing)
+4. Análise e visualização:
+* Criação de consultas SQL no BigQuery para análise dos dados
+* Desenvolvimento de um dashboard no Google Data Studio para visualização dos insights
+5. Automatização do processo:
+* Criação de um script de automação bash para executar o processo de ETL periodicamente
 
-![Google Sheets Atualização](docs/img/sheets-atualizacao.png)
-
-9. Criação de script de automação do processo
-
-
-## Arquivo Google Sheets
-
-Os dados dessa ETL estão no arquivo [Google Sheets](https://docs.google.com/spreadsheets/d/1siFjaCa92INpVe-cp2kr8vIAiNvs5thCLkI4VxBTjC8/edit?usp=sharing)
 
 ## Contato
 
