@@ -3,27 +3,19 @@
 
 ## Visão Geral
 
-* Realize a extração das informações que conseguir da base de dados listada no website: https://steamdb.info/sales/ 
+Este projeto tem como objetivo realizar a extração de dados de vendas da plataforma Steam, disponíveis no site https://steamdb.info/sales/. O processo de extração, transformação e carregamento (ETL) dos dados será realizado utilizando Python, seguindo uma arquitetura de dados do tipo Medallion.
+Os dados extraídos serão armazenados em um Data Lake no Google Cloud Storage e, em seguida, carregados para um Data Warehouse no Google BigQuery. Após o carregamento, os dados serão disponibilizados em uma planilha do Google Sheets para análise e visualização.
+A abordagem Medallion foi escolhida por oferecer um modelo de gerenciamento de dados com camadas bem definidas, proporcionando maior rastreabilidade, confiabilidade e flexibilidade na transformação e análise dos dados. As camadas do modelo Medallion são:
 
-* Armazene estes dados no Google BigQuery
+Raw: Nesta camada, os dados extraídos diretamente da fonte são armazenados sem modificações, mantendo a integridade dos dados originais.
+Processed: Nesta camada, os dados são limpos, transformados e preparados para análise, mantendo um backup das etapas de transformação.
+Trusted: Esta é a camada final, onde os dados validados e aprovados ficam disponíveis para uso em análises críticas e tomada de decisão.
 
-* Em seguida exporte ou conecte esses dados em um Google Sheets e nos envie o link.
-
-### Arquitetura de Dados
-
-Este projeto utiliza uma arquitetura do tipo Medallion para o gerenciamento de dados, organizada em camadas:
-
-* Raw: Dados extraídos diretamente da fonte, sem processamento.
-  Para a camada raw foi uma boa prática escolhida de manter os dados exatamente como foram recebidos, sem modificações. Isso serve como um "backup" dos dados originais e permite reprocessamento se necessário.
-* Processed: Dados que foram limpos e transformados, prontos para análise.
-  Esta camada contém dados que passaram por alguma transformação e limpeza. Os dados estão dispostos para que seja reprocessados se necessário e como backap das constantes mdificações de formato 
-* Trusted: Dados que passaram por validação e estão prontos para uso em decisões críticas.
-  Uma única tabela principal
-
+Além do armazenamento e transformação dos dados, este projeto também inclui a criação de um dashboard interativo no Google Data Studio, permitindo a visualização e análise dos dados de vendas da plataforma Steam.
 
 ### Visualização dos Dados
 
-![Dashboard](docs/img/dashboard-sales.png)
+![Dashboard](docs/img/dashboard-sales-1.png)
 
 Para visualização completa do [Dashboard](https://lookerstudio.google.com/reporting/48ffd759-acd5-45ce-be7c-94536869e41f)
 
