@@ -1,0 +1,2496 @@
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'pandas'
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'pandas'
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+    import pandas as pd
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'pandas'
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py:25: SyntaxWarning: invalid escape sequence '\^'
+  "sec-ch-ua": '^\^"Not.A/Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"114^\^", ^\^"Google Chrome^\^";v=^\^"114^\^"',
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/home/nay/Documentos/Projetos/SteamDB-Analytics-Pipeline/scripts/extraction.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
