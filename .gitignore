@@ -125,3 +125,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+
+# Arquivos de dados grandes
+data/trusted/*.csv
+data/raw/*.csv
+*.parquet
